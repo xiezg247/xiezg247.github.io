@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://xiezg247.github.io/sitemap.xml
