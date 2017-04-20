@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Life'
+title: 'Freedom'
 date: 2016-01-19 12:11:34
 categories: life-freedom
 tags: freedom
