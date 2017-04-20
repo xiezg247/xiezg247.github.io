@@ -4,7 +4,6 @@ title: 'Python'
 date: 2016-01-22 12:11:34
 categories: prog-lan-python
 tags: python
-image: '/images/author.jpg'
 lead_text: 'The Zen of Python'
 ---
 
