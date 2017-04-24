@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://0.0.0.0:4000//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://0.0.0.0:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000//" rel="alternate" type="text/html" /><updated>2017-04-20T14:32:38+08:00</updated><id>http://0.0.0.0:4000///</id><subtitle>A Personal Blog.</subtitle><entry><title type="html">Python</title><link href="http://0.0.0.0:4000//prog-lan-python/2016/01/22/prog-lan-python.html" rel="alternate" type="text/html" title="Python" /><published>2016-01-22T20:11:34+08:00</published><updated>2016-01-22T20:11:34+08:00</updated><id>http://0.0.0.0:4000//prog-lan-python/2016/01/22/prog-lan-python</id><content type="html" xml:base="http://0.0.0.0:4000//prog-lan-python/2016/01/22/prog-lan-python.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000//feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000//" rel="alternate" type="text/html" /><updated>2017-04-25T01:19:43+08:00</updated><id>http://localhost:4000///</id><subtitle>A Personal Blog.</subtitle><entry><title type="html">Python</title><link href="http://localhost:4000//prog-lan-python/2016/01/22/prog-lan-python.html" rel="alternate" type="text/html" title="Python" /><published>2016-01-22T20:11:34+08:00</published><updated>2016-01-22T20:11:34+08:00</updated><id>http://localhost:4000//prog-lan-python/2016/01/22/prog-lan-python</id><content type="html" xml:base="http://localhost:4000//prog-lan-python/2016/01/22/prog-lan-python.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
 
 &lt;p&gt;Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -18,7 +18,7 @@ Now is better than never.
 Although never is often better than &lt;em&gt;right&lt;/em&gt; now.
 If the implementation is hard to explain, it’s a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="python" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Go</title><link href="http://0.0.0.0:4000//prog-lan-go/2016/01/21/prog-lan-go.html" rel="alternate" type="text/html" title="Go" /><published>2016-01-21T20:11:34+08:00</published><updated>2016-01-21T20:11:34+08:00</updated><id>http://0.0.0.0:4000//prog-lan-go/2016/01/21/prog-lan-go</id><content type="html" xml:base="http://0.0.0.0:4000//prog-lan-go/2016/01/21/prog-lan-go.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
+Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="python" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Go</title><link href="http://localhost:4000//prog-lan-go/2016/01/21/prog-lan-go.html" rel="alternate" type="text/html" title="Go" /><published>2016-01-21T20:11:34+08:00</published><updated>2016-01-21T20:11:34+08:00</updated><id>http://localhost:4000//prog-lan-go/2016/01/21/prog-lan-go</id><content type="html" xml:base="http://localhost:4000//prog-lan-go/2016/01/21/prog-lan-go.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
 
 &lt;p&gt;Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -38,7 +38,7 @@ Now is better than never.
 Although never is often better than &lt;em&gt;right&lt;/em&gt; now.
 If the implementation is hard to explain, it’s a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="go" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Tornado</title><link href="http://0.0.0.0:4000//prog-web-tornado/2016/01/20/prog-web-tornado.html" rel="alternate" type="text/html" title="Tornado" /><published>2016-01-20T20:11:34+08:00</published><updated>2016-01-20T20:11:34+08:00</updated><id>http://0.0.0.0:4000//prog-web-tornado/2016/01/20/prog-web-tornado</id><content type="html" xml:base="http://0.0.0.0:4000//prog-web-tornado/2016/01/20/prog-web-tornado.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
+Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="go" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Tornado</title><link href="http://localhost:4000//prog-web-tornado/2016/01/20/prog-web-tornado.html" rel="alternate" type="text/html" title="Tornado" /><published>2016-01-20T20:11:34+08:00</published><updated>2016-01-20T20:11:34+08:00</updated><id>http://localhost:4000//prog-web-tornado/2016/01/20/prog-web-tornado</id><content type="html" xml:base="http://localhost:4000//prog-web-tornado/2016/01/20/prog-web-tornado.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
 
 &lt;p&gt;Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -58,7 +58,7 @@ Now is better than never.
 Although never is often better than &lt;em&gt;right&lt;/em&gt; now.
 If the implementation is hard to explain, it’s a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="tornado" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Standard</title><link href="http://0.0.0.0:4000//word-standard/2016/01/19/word-standard.html" rel="alternate" type="text/html" title="Standard" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://0.0.0.0:4000//word-standard/2016/01/19/word-standard</id><content type="html" xml:base="http://0.0.0.0:4000//word-standard/2016/01/19/word-standard.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
+Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="tornado" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Standard</title><link href="http://localhost:4000//word-standard/2016/01/19/word-standard.html" rel="alternate" type="text/html" title="Standard" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://localhost:4000//word-standard/2016/01/19/word-standard</id><content type="html" xml:base="http://localhost:4000//word-standard/2016/01/19/word-standard.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
 
 &lt;p&gt;Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -78,7 +78,7 @@ Now is better than never.
 Although never is often better than &lt;em&gt;right&lt;/em&gt; now.
 If the implementation is hard to explain, it’s a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="standard" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Plan</title><link href="http://0.0.0.0:4000//work-plan/2016/01/19/work-plan.html" rel="alternate" type="text/html" title="Plan" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://0.0.0.0:4000//work-plan/2016/01/19/work-plan</id><content type="html" xml:base="http://0.0.0.0:4000//work-plan/2016/01/19/work-plan.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
+Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="standard" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Plan</title><link href="http://localhost:4000//work-plan/2016/01/19/work-plan.html" rel="alternate" type="text/html" title="Plan" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://localhost:4000//work-plan/2016/01/19/work-plan</id><content type="html" xml:base="http://localhost:4000//work-plan/2016/01/19/work-plan.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
 
 &lt;p&gt;Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -98,7 +98,7 @@ Now is better than never.
 Although never is often better than &lt;em&gt;right&lt;/em&gt; now.
 If the implementation is hard to explain, it’s a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="plan" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Env</title><link href="http://0.0.0.0:4000//prog-env/2016/01/19/prog-env.html" rel="alternate" type="text/html" title="Env" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://0.0.0.0:4000//prog-env/2016/01/19/prog-env</id><content type="html" xml:base="http://0.0.0.0:4000//prog-env/2016/01/19/prog-env.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
+Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="plan" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Env</title><link href="http://localhost:4000//prog-env/2016/01/19/prog-env.html" rel="alternate" type="text/html" title="Env" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://localhost:4000//prog-env/2016/01/19/prog-env</id><content type="html" xml:base="http://localhost:4000//prog-env/2016/01/19/prog-env.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
 
 &lt;p&gt;Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -118,7 +118,7 @@ Now is better than never.
 Although never is often better than &lt;em&gt;right&lt;/em&gt; now.
 If the implementation is hard to explain, it’s a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="env" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Redis</title><link href="http://0.0.0.0:4000//prog-db-redis/2016/01/19/prog-db-redis.html" rel="alternate" type="text/html" title="Redis" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://0.0.0.0:4000//prog-db-redis/2016/01/19/prog-db-redis</id><content type="html" xml:base="http://0.0.0.0:4000//prog-db-redis/2016/01/19/prog-db-redis.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
+Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="env" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Redis</title><link href="http://localhost:4000//prog-db-redis/2016/01/19/prog-db-redis.html" rel="alternate" type="text/html" title="Redis" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://localhost:4000//prog-db-redis/2016/01/19/prog-db-redis</id><content type="html" xml:base="http://localhost:4000//prog-db-redis/2016/01/19/prog-db-redis.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
 
 &lt;p&gt;Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -138,7 +138,7 @@ Now is better than never.
 Although never is often better than &lt;em&gt;right&lt;/em&gt; now.
 If the implementation is hard to explain, it’s a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="redis" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">MySQL</title><link href="http://0.0.0.0:4000//prog-db-mysql/2016/01/19/prog-db-mysql.html" rel="alternate" type="text/html" title="MySQL" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://0.0.0.0:4000//prog-db-mysql/2016/01/19/prog-db-mysql</id><content type="html" xml:base="http://0.0.0.0:4000//prog-db-mysql/2016/01/19/prog-db-mysql.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
+Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="redis" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">MySQL</title><link href="http://localhost:4000//prog-db-mysql/2016/01/19/prog-db-mysql.html" rel="alternate" type="text/html" title="MySQL" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://localhost:4000//prog-db-mysql/2016/01/19/prog-db-mysql</id><content type="html" xml:base="http://localhost:4000//prog-db-mysql/2016/01/19/prog-db-mysql.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
 
 &lt;p&gt;Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -158,7 +158,7 @@ Now is better than never.
 Although never is often better than &lt;em&gt;right&lt;/em&gt; now.
 If the implementation is hard to explain, it’s a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="mysql" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">RCMD</title><link href="http://0.0.0.0:4000//pro-rcmd-systerm/2016/01/19/pro-rcmd-systerm.html" rel="alternate" type="text/html" title="RCMD" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://0.0.0.0:4000//pro-rcmd-systerm/2016/01/19/pro-rcmd-systerm</id><content type="html" xml:base="http://0.0.0.0:4000//pro-rcmd-systerm/2016/01/19/pro-rcmd-systerm.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
+Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="mysql" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">RCMD</title><link href="http://localhost:4000//pro-rcmd-systerm/2016/01/19/pro-rcmd-systerm.html" rel="alternate" type="text/html" title="RCMD" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://localhost:4000//pro-rcmd-systerm/2016/01/19/pro-rcmd-systerm</id><content type="html" xml:base="http://localhost:4000//pro-rcmd-systerm/2016/01/19/pro-rcmd-systerm.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
 
 &lt;p&gt;Beautiful is better than ugly.
 Explicit is better than implicit.
@@ -178,7 +178,7 @@ Now is better than never.
 Although never is often better than &lt;em&gt;right&lt;/em&gt; now.
 If the implementation is hard to explain, it’s a bad idea.
 If the implementation is easy to explain, it may be a good idea.
-Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="rcmd-systerm" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Math</title><link href="http://0.0.0.0:4000//pro-math/2016/01/19/pro-math.html" rel="alternate" type="text/html" title="Math" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://0.0.0.0:4000//pro-math/2016/01/19/pro-math</id><content type="html" xml:base="http://0.0.0.0:4000//pro-math/2016/01/19/pro-math.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
+Namespaces are one honking great idea – let’s do more of those!&lt;/p&gt;</content><category term="rcmd-systerm" /><summary type="html">The Zen of Python, by Tim Peters</summary></entry><entry><title type="html">Math</title><link href="http://localhost:4000//pro-math/2016/01/19/pro-math.html" rel="alternate" type="text/html" title="Math" /><published>2016-01-19T20:11:34+08:00</published><updated>2016-01-19T20:11:34+08:00</updated><id>http://localhost:4000//pro-math/2016/01/19/pro-math</id><content type="html" xml:base="http://localhost:4000//pro-math/2016/01/19/pro-math.html">&lt;p&gt;The Zen of Python, by Tim Peters&lt;/p&gt;
 
 &lt;p&gt;Beautiful is better than ugly.
 Explicit is better than implicit.
