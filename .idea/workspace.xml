@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c728c92c-ea1b-456e-8975-703e0f545410" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about/index.html" afterPath="$PROJECT_DIR$/_site/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/index.html" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/life-freedom.html" afterPath="$PROJECT_DIR$/_site/category/life-freedom.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/life-time.html" afterPath="$PROJECT_DIR$/_site/category/life-time.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/pro-algorithm.html" afterPath="$PROJECT_DIR$/_site/category/pro-algorithm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/pro-machine-learning.html" afterPath="$PROJECT_DIR$/_site/category/pro-machine-learning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/pro-math.html" afterPath="$PROJECT_DIR$/_site/category/pro-math.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/pro-rcmd-systerm.html" afterPath="$PROJECT_DIR$/_site/category/pro-rcmd-systerm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/prog-db-mysql.html" afterPath="$PROJECT_DIR$/_site/category/prog-db-mysql.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/prog-db-redis.html" afterPath="$PROJECT_DIR$/_site/category/prog-db-redis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/prog-lan-env.html" afterPath="$PROJECT_DIR$/_site/category/prog-lan-env.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/prog-lan-go.html" afterPath="$PROJECT_DIR$/_site/category/prog-lan-go.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/prog-lan-python.html" afterPath="$PROJECT_DIR$/_site/category/prog-lan-python.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/prog-web-flask.html" afterPath="$PROJECT_DIR$/_site/category/prog-web-flask.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/prog-web-tornado.html" afterPath="$PROJECT_DIR$/_site/category/prog-web-tornado.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/work-plan.html" afterPath="$PROJECT_DIR$/_site/category/work-plan.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/work-standard.html" afterPath="$PROJECT_DIR$/_site/category/work-standard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/life-freedom/2016/01/19/life-freedom.html" afterPath="$PROJECT_DIR$/_site/life-freedom/2016/01/19/life-freedom.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/life-time/2016/01/19/life-time.html" afterPath="$PROJECT_DIR$/_site/life-time/2016/01/19/life-time.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page/index.html" afterPath="$PROJECT_DIR$/_site/page/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page2/index.html" afterPath="$PROJECT_DIR$/_site/page2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page3/index.html" afterPath="$PROJECT_DIR$/_site/page3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pro-algorithm/2016/01/19/pro-algorithm.html" afterPath="$PROJECT_DIR$/_site/pro-algorithm/2016/01/19/pro-algorithm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pro-machine-learning/2016/01/19/pro-machine-learning.html" afterPath="$PROJECT_DIR$/_site/pro-machine-learning/2016/01/19/pro-machine-learning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pro-math/2016/01/19/pro-math.html" afterPath="$PROJECT_DIR$/_site/pro-math/2016/01/19/pro-math.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pro-rcmd-systerm/2016/01/19/pro-rcmd-systerm.html" afterPath="$PROJECT_DIR$/_site/pro-rcmd-systerm/2016/01/19/pro-rcmd-systerm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/prog-db-mysql/2016/01/19/prog-db-mysql.html" afterPath="$PROJECT_DIR$/_site/prog-db-mysql/2016/01/19/prog-db-mysql.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/prog-db-redis/2016/01/19/prog-db-redis.html" afterPath="$PROJECT_DIR$/_site/prog-db-redis/2016/01/19/prog-db-redis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/prog-env/2016/01/19/prog-env.html" afterPath="$PROJECT_DIR$/_site/prog-env/2016/01/19/prog-env.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/prog-lan-go/2016/01/21/prog-lan-go.html" afterPath="$PROJECT_DIR$/_site/prog-lan-go/2016/01/21/prog-lan-go.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/prog-lan-python/2016/01/22/prog-lan-python.html" afterPath="$PROJECT_DIR$/_site/prog-lan-python/2016/01/22/prog-lan-python.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/prog-web-flask/2016/01/19/prog-web-flask.html" afterPath="$PROJECT_DIR$/_site/prog-web-flask/2016/01/19/prog-web-flask.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/prog-web-tornado/2016/01/20/prog-web-tornado.html" afterPath="$PROJECT_DIR$/_site/prog-web-tornado/2016/01/20/prog-web-tornado.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/algorithm.html" afterPath="$PROJECT_DIR$/_site/tag/algorithm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/code.html" afterPath="$PROJECT_DIR$/_site/tag/code.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/css.html" afterPath="$PROJECT_DIR$/_site/tag/css.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/env.html" afterPath="$PROJECT_DIR$/_site/tag/env.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/flask.html" afterPath="$PROJECT_DIR$/_site/tag/flask.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/freedom.html" afterPath="$PROJECT_DIR$/_site/tag/freedom.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/go.html" afterPath="$PROJECT_DIR$/_site/tag/go.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/machine-learning.html" afterPath="$PROJECT_DIR$/_site/tag/machine-learning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/math.html" afterPath="$PROJECT_DIR$/_site/tag/math.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/mysql.html" afterPath="$PROJECT_DIR$/_site/tag/mysql.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/plan.html" afterPath="$PROJECT_DIR$/_site/tag/plan.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/python.html" afterPath="$PROJECT_DIR$/_site/tag/python.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/rcmd-systerm.html" afterPath="$PROJECT_DIR$/_site/tag/rcmd-systerm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/redis.html" afterPath="$PROJECT_DIR$/_site/tag/redis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/standard.html" afterPath="$PROJECT_DIR$/_site/tag/standard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/time.html" afterPath="$PROJECT_DIR$/_site/tag/time.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/tornado.html" afterPath="$PROJECT_DIR$/_site/tag/tornado.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/word-standard/2016/01/19/word-standard.html" afterPath="$PROJECT_DIR$/_site/word-standard/2016/01/19/word-standard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/work-plan/2016/01/19/work-plan.html" afterPath="$PROJECT_DIR$/_site/work-plan/2016/01/19/work-plan.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-04-25-Flask源码剖析（一）：总览.md" afterPath="$PROJECT_DIR$/_posts/2017-04-25-Flask源码剖析（一）：总览.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,26 +16,13 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="2017-04-25-Flask源码剖析（一）：总览.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-04-25-Flask源码剖析（一）：总览.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="336">
-                <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2016-01-19-prog-web-flask.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-01-19-prog-web-flask.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="315">
-                <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-95">
+                <caret line="127" column="9" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="127" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -101,8 +32,49 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>highlight</find>
+      <find>highlighter</find>
+      <find>highlighte</find>
+      <find>highlight</find>
+      <find>highligh</find>
+      <find>highlig</find>
+      <find>highli</find>
+      <find>highl</find>
+      <find>high</find>
+      <find>hig</find>
+      <find>hi</find>
+      <find>h</find>
+      <find>ll</find>
+      <find>l</find>
+      <find>li</find>
+      <find>line</find>
+      <find>lin</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_pages/category/algorithm/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/env/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/freedom/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/go/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/machine-learning/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/math/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/mysql/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/plan/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/python/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/rcmd-systerm/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/redis/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/standard/index.html" />
+        <option value="$PROJECT_DIR$/_pages/category/time/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-04-25-Flask源码剖析（一）：总览.md" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -112,9 +84,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
-    <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="y" value="-4" />
+    <option name="width" value="1789" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -155,6 +127,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiezg247.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiezg247.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -170,6 +156,18 @@
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -190,6 +188,13 @@
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -245,6 +250,7 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -261,6 +267,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -268,26 +280,6 @@
       <scripts />
       <node-interpreter value="project" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="xiezg247.github.io" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -321,15 +313,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="xiezg247.github.io" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -343,19 +330,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="xiezg247.github.io" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="xiezg247.github.io" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -373,11 +370,6 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
   </component>
@@ -395,27 +387,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="65" y="-4" width="1789" height="972" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32749003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23981641" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,10 +422,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-25-Flask源码剖析（一）：总览.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2016-01-19-prog-web-flask.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="315">
+          <first_editor relative-caret-position="285">
             <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
             <folding />
           </first_editor>
@@ -440,11 +444,169 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-25-Flask源码剖析（一）：总览.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-01-19-prog-web-flask.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="336">
-            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <first_editor relative-caret-position="285">
+            <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/env/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/algorithm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/flask/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/freedom/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/go/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/python/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/rcmd-systerm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-01-17-life-freedom.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/time/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/standard/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/redis/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/plan/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/mysql/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/math/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/category/machine-learning/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-25-Flask源码剖析（一）：总览.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-95">
+            <caret line="127" column="9" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="127" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
