@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c728c92c-ea1b-456e-8975-703e0f545410" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/404.html" afterPath="$PROJECT_DIR$/_site/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/blog/index.html" afterPath="$PROJECT_DIR$/_site/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/algorithm.html" afterPath="$PROJECT_DIR$/_site/category/algorithm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/env.html" afterPath="$PROJECT_DIR$/_site/category/env.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/flask.html" afterPath="$PROJECT_DIR$/_site/category/flask.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/freedom.html" afterPath="$PROJECT_DIR$/_site/category/freedom.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/go.html" afterPath="$PROJECT_DIR$/_site/category/go.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/machine-learning.html" afterPath="$PROJECT_DIR$/_site/category/machine-learning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/math.html" afterPath="$PROJECT_DIR$/_site/category/math.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/mysql.html" afterPath="$PROJECT_DIR$/_site/category/mysql.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/plan.html" afterPath="$PROJECT_DIR$/_site/category/plan.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/prog-web-tornado.html" afterPath="$PROJECT_DIR$/_site/category/prog-web-tornado.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/python.html" afterPath="$PROJECT_DIR$/_site/category/python.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/rcmd-systerm.html" afterPath="$PROJECT_DIR$/_site/category/rcmd-systerm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/redis.html" afterPath="$PROJECT_DIR$/_site/category/redis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/standard.html" afterPath="$PROJECT_DIR$/_site/category/standard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/category/time.html" afterPath="$PROJECT_DIR$/_site/category/time.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/flask/2017/04/25/Flask源码剖析-一-总览.html" afterPath="$PROJECT_DIR$/_site/flask/2017/04/25/Flask源码剖析-一-总览.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/page/index.html" afterPath="$PROJECT_DIR$/_site/page/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/search_data.json" afterPath="$PROJECT_DIR$/_site/search_data.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/algorithm.html" afterPath="$PROJECT_DIR$/_site/tag/algorithm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/code.html" afterPath="$PROJECT_DIR$/_site/tag/code.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/css.html" afterPath="$PROJECT_DIR$/_site/tag/css.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/env.html" afterPath="$PROJECT_DIR$/_site/tag/env.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/flask.html" afterPath="$PROJECT_DIR$/_site/tag/flask.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/freedom.html" afterPath="$PROJECT_DIR$/_site/tag/freedom.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/go.html" afterPath="$PROJECT_DIR$/_site/tag/go.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/machine-learning.html" afterPath="$PROJECT_DIR$/_site/tag/machine-learning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/math.html" afterPath="$PROJECT_DIR$/_site/tag/math.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/mysql.html" afterPath="$PROJECT_DIR$/_site/tag/mysql.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/plan.html" afterPath="$PROJECT_DIR$/_site/tag/plan.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/python.html" afterPath="$PROJECT_DIR$/_site/tag/python.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/rcmd-systerm.html" afterPath="$PROJECT_DIR$/_site/tag/rcmd-systerm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/redis.html" afterPath="$PROJECT_DIR$/_site/tag/redis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/standard.html" afterPath="$PROJECT_DIR$/_site/tag/standard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/time.html" afterPath="$PROJECT_DIR$/_site/tag/time.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag/tornado.html" afterPath="$PROJECT_DIR$/_site/tag/tornado.html" />
-    </list>
+    <list default="true" id="c728c92c-ea1b-456e-8975-703e0f545410" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +14,21 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="2017-04-26-Flask源码剖析（二）：简单应用.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-04-26-Flask源码剖析（二）：简单应用.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="114">
+                <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -99,6 +72,7 @@
         <option value="$PROJECT_DIR$/_pages/category/time/index.html" />
         <option value="$PROJECT_DIR$/_posts/2017-04-25-Flask源码剖析（一）：总览.md" />
         <option value="$PROJECT_DIR$/_posts/2017-04-26-Flask源码剖析（一）：简单应用.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-04-26-Flask源码剖析（二）：简单应用.md" />
       </list>
     </option>
   </component>
@@ -140,6 +114,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="xiezg247.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiezg247.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xiezg247.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -386,6 +374,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1789" height="972" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -393,7 +382,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23981641" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23981641" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -607,22 +596,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-26-Flask源码剖析（一）：简单应用.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-25-Flask源码剖析（一）：总览.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <first_editor relative-caret-position="-95">
+            <caret line="127" column="9" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="127" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-04-25-Flask源码剖析（一）：总览.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-04-26-Flask源码剖析（二）：简单应用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-95">
-            <caret line="127" column="9" lean-forward="false" selection-start-line="118" selection-start-column="0" selection-end-line="127" selection-end-column="9" />
+          <first_editor relative-caret-position="114">
+            <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
