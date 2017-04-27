@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: 'Flask源码剖析（二）：简单应用'
-date: 2017-04-26 10:20:32
+title: 'Flask源码剖析（九）：json解析'
+date: 2017-05-03 10:20:32
 categories: flask
 tags: flask
-lead_text: '简单应用'
+lead_text: 'json解析'
 ---
 
 ## 一. 最小的应用
