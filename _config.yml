@@ -7,7 +7,7 @@ github_username:  xiezg247
 include: ['_pages']
 
 # Build settings
-pygments:    true
+highlighter:    true
 markdown:    kramdown
 highlighter: pygments
 lsi:         false
