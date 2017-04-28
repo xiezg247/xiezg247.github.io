@@ -11,8 +11,13 @@ admin_email: 'kw1073xzg@gmail.com'
 #####################################################################
 #About Page
 author_name: '谢志刚'
-author_profession: '后端开发工程师'
-author_description: '刚上路的攻城狮'
+author_profession: '专注后端，客串前端，非全栈'
+author_description_one: '爱编程，爱美食，爱有活力的姑娘'
+author_description_two: '爱读书，爱工作，爱充满悬念的生活'
+author_description_third: '喜欢计划，喜欢健身，喜欢旅行，喜欢大海和小巷，喜欢音乐，最好还有烧烤和啤酒'
+author_description_fourth: '热爱技术，它给予我最踏实的安全感，推崇极简生活'
+author_description_fiveth: '我不是码农，我是程序员，软件工程师，Geek'
+author_description_sixth: '我和这个城市的人没啥不同，为爱情，理想和家庭而努力奋斗'
 author_image: 'http://7xp6ii.com1.z0.glb.clouddn.com/11733450.jpg'
 
 # social proiles
