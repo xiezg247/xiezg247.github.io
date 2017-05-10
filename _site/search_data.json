@@ -1,6 +1,126 @@
 {
   
 
+    "flask-2017-05-09-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-8d-81-e4-ba-94-e8-a7-86-e5-9b-be-html": {
+      "title": "Flask源码剖析（十五）：视图",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/05/09/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%BA%94-%E8%A7%86%E5%9B%BE.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-05-08-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-8d-81-e5-9b-9b-e6-a8-a1-e6-9d-bf-html": {
+      "title": "Flask源码剖析（十四）：模板",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/05/08/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%9B%9B-%E6%A8%A1%E6%9D%BF.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-05-07-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-8d-81-e4-b8-89-e6-89-a9-e5-b1-95-html": {
+      "title": "Flask源码剖析（十三）：扩展",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-05-06-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-8d-81-e4-ba-8c-e9-85-8d-e7-bd-ae-html": {
+      "title": "Flask源码剖析（十二）：配置",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/05/06/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%BA%8C-%E9%85%8D%E7%BD%AE.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-05-05-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-8d-81-e4-b8-80-e6-b5-8b-e8-af-95-html": {
+      "title": "Flask源码剖析（十一）：测试",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/05/05/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%80-%E6%B5%8B%E8%AF%95.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-05-04-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-8d-81-e5-91-bd-e4-bb-a4-e8-a1-8c-e4-ba-a4-e4-ba-92-html": {
+      "title": "Flask源码剖析（十）：命令行交互",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/05/04/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81-%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BA%A4%E4%BA%92.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-05-03-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e4-b9-9d-json-e8-a7-a3-e6-9e-90-html": {
+      "title": "Flask源码剖析（九）：json解析",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/05/03/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E4%B9%9D-json%E8%A7%A3%E6%9E%90.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-05-02-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-85-ab-e4-bf-a1-e5-8f-b7-html": {
+      "title": "Flask源码剖析（八）：信号",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/05/02/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%85%AB-%E4%BF%A1%E5%8F%B7.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-05-01-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e4-b8-83-session-html": {
+      "title": "Flask源码剖析（七）：session",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/05/01/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E4%B8%83-session.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-04-30-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-85-ad-e5-93-8d-e5-ba-94-html": {
+      "title": "Flask源码剖析（六）：响应",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/04/30/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%85%AD-%E5%93%8D%E5%BA%94.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-04-28-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e4-ba-94-e8-af-b7-e6-b1-82-html": {
+      "title": "Flask源码剖析（五）：请求",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/04/28/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E4%BA%94-%E8%AF%B7%E6%B1%82.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
+    "flask-2017-04-28-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-9b-9b-e4-b8-8a-e4-b8-8b-e6-96-87-html": {
+      "title": "Flask源码剖析（四）：上下文",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/04/28/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%9B%9B-%E4%B8%8A%E4%B8%8B%E6%96%87.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
     "flask-2017-04-27-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e4-b8-89-e8-b7-af-e7-94-b1-html": {
       "title": "Flask源码剖析（三）：路由",
       "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
@@ -13,7 +133,7 @@
 
     "flask-2017-04-26-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e4-ba-8c-e7-ae-80-e5-8d-95-e5-ba-94-e7-94-a8-html": {
       "title": "Flask源码剖析（二）：简单应用",
-      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "content"	 : "一. 最小的应用# -*- coding: utf-8 -*-from flask import Flaskapp = Flask(__name__)@app.route(&#39;/&#39;)def hello_world():    import ipdb    ipdb.set_trace()    return &#39;Hello World!&#39;if __name__ == &#39;__main__&#39;:    app.run()二. 分析工具ipdb  ipdb exports functions to access the IPython debugger, which features tab completion, syntax highlighting, better tracebacks, better introspection with the same interface as the pdb module.分析# -*- coding: utf-8 -*-from flask import Flaskapp = Flask(__name__)@app.route(&#39;/&#39;)def hello_world():    import ipdb    ipdb.set_trace()    return &#39;Hello World!&#39;if __name__ == &#39;__main__&#39;:    app.run()在终端执行：(flask_env) xiezhigang@ pro 1$ ipdb hello.py &amp;gt; /home/xiezhigang/PycharmProjects/flask_env/pro/hello.py(1)&amp;lt;module&amp;gt;()----&amp;gt; 1 from flask import Flask      2 app = Flask(__name__)      3 ipdb&amp;gt; return * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)  Tips: 在python2.7，可以使用python -m ipdb hello.py另起一个终端访问：(flask_env) xiezhigang@ pro 19$ curl 127.0.0.1:5000此时，第一个终端返回：&amp;gt; /home/xiezhigang/PycharmProjects/flask_env/pro/hello.py(8)hello_world()      7     ipdb.set_trace()----&amp;gt; 8     return &#39;Hello World!&#39;      9 然后，在第一个终端查看断点的函数调用过程ipdb&amp;gt; w  /home/xiezhigang/PycharmProjects/flask_env/bin/ipdb(11)&amp;lt;module&amp;gt;()      9 if __name__ == &#39;__main__&#39;:     10     sys.argv[0] = re.sub(r&#39;(-script.pyw?|.exe)?$&#39;, &#39;&#39;, sys.argv[0])---&amp;gt; 11     sys.exit(main())  /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/ipdb/__main__.py(198)main()    197         try:--&amp;gt; 198             pdb._runscript(mainpyfile)    199             if pdb._user_requested_quit:  /usr/lib/python2.7/pdb.py(1233)_runscript()   1232         statement = &#39;execfile(%r)&#39; % filename-&amp;gt; 1233         self.run(statement)   1234   /usr/lib/python2.7/bdb.py(400)run()    399         try:--&amp;gt; 400             exec cmd in globals, locals    401         except BdbQuit:  &amp;lt;string&amp;gt;(1)&amp;lt;module&amp;gt;()  /home/xiezhigang/PycharmProjects/flask_env/pro/hello.py(11)&amp;lt;module&amp;gt;()      9      10 if __name__ == &#39;__main__&#39;:---&amp;gt; 11     app.run()  /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/flask/app.py(841)run()    840         try:--&amp;gt; 841             run_simple(host, port, self, **options)    842         finally:  /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/werkzeug/serving.py(736)run_simple()    735     else:--&amp;gt; 736         inner()    737   /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/werkzeug/serving.py(699)inner()    698             log_startup(srv.socket)--&amp;gt; 699         srv.serve_forever()    700   /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/werkzeug/serving.py(536)serve_forever()    535         try:--&amp;gt; 536             HTTPServer.serve_forever(self)    537         except KeyboardInterrupt:  /usr/lib/python2.7/SocketServer.py(238)serve_forever()    237                 if self in r:--&amp;gt; 238                     self._handle_request_noblock()    239         finally:  /usr/lib/python2.7/SocketServer.py(295)_handle_request_noblock()    294             try:--&amp;gt; 295                 self.process_request(request, client_address)    296             except:  /usr/lib/python2.7/SocketServer.py(321)process_request()    320         &quot;&quot;&quot;--&amp;gt; 321         self.finish_request(request, client_address)    322         self.shutdown_request(request)  /usr/lib/python2.7/SocketServer.py(334)finish_request()    333         &quot;&quot;&quot;Finish one request by instantiating RequestHandlerClass.&quot;&quot;&quot;--&amp;gt; 334         self.RequestHandlerClass(request, client_address, self)    335   /usr/lib/python2.7/SocketServer.py(649)__init__()    648         try:--&amp;gt; 649             self.handle()    650         finally:  /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/werkzeug/serving.py(232)handle()    231         try:--&amp;gt; 232             rv = BaseHTTPRequestHandler.handle(self)    233         except (socket.error, socket.timeout) as e:  /usr/lib/python2.7/BaseHTTPServer.py(340)handle()    339 --&amp;gt; 340         self.handle_one_request()    341         while not self.close_connection:  /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/werkzeug/serving.py(267)handle_one_request()    266         elif self.parse_request():--&amp;gt; 267             return self.run_wsgi()    268   /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/werkzeug/serving.py(209)run_wsgi()    208         try:--&amp;gt; 209             execute(self.server.app)    210         except (socket.error, socket.timeout) as e:  /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/werkzeug/serving.py(197)execute()    196         def execute(app):--&amp;gt; 197             application_iter = app(environ, start_response)    198             try:  /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/flask/app.py(1997)__call__()   1996         &quot;&quot;&quot;Shortcut for :attr:`wsgi_app`.&quot;&quot;&quot;-&amp;gt; 1997         return self.wsgi_app(environ, start_response)   1998   /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/flask/app.py(1982)wsgi_app()   1981             try:-&amp;gt; 1982                 response = self.full_dispatch_request()   1983             except Exception as e:  /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/flask/app.py(1612)full_dispatch_request()   1611             if rv is None:-&amp;gt; 1612                 rv = self.dispatch_request()   1613         except Exception as e:  /home/xiezhigang/PycharmProjects/flask_env/local/lib/python2.7/site-packages/flask/app.py(1598)dispatch_request()   1597         # otherwise dispatch to the handler for that endpoint-&amp;gt; 1598         return self.view_functions[rule.endpoint](**req.view_args)   1599 &amp;gt; /home/xiezhigang/PycharmProjects/flask_env/pro/hello.py(8)hello_world()      7     ipdb.set_trace()----&amp;gt; 8     return &#39;Hello World!&#39;      9 Pycharm  PyCharm provides smart code completion, code inspections, on-the-fly error highlighting and quick-fixes, along with automated code refactorings and rich navigation capabilities.这里使用的Pycharm的版本是2017.1，早在Pycharm4.5就提供了一个Profile功能。  在Pycharm的右上角有一排按钮，找一下即可，或者在文件上右击，点击选项“Profile xxx”。  默认支持cProfile,提供两种视图Statistics和Call Graph。  在Call Graph视图中，右击视图中的方框可以跳转到对应的函数。下面看看上面这个简单应用的调用过程：三. 调用顺序由ipdb输出的日志，可得知函数调用链如下：四. 抽象五. 问题",
       "url": " /flask/2017/04/26/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E4%BA%8C-%E7%AE%80%E5%8D%95%E5%BA%94%E7%94%A8.html",
       "author": "",
       "categories": "flask"
