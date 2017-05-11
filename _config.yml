@@ -42,3 +42,6 @@ kramdown:
     tab_width:         4
     bold_every:        10
     css:               style
+plugins_dir: [jekyll-mermaid]
+mermaid:
+   src: "https://xiezg247.github.io/js/mermaid.min.js"
