@@ -5,38 +5,36 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Flask源码剖析（十三）：扩展 </title>
-    <meta name="description" content="扩展" />
+    <title>Home </title>
+    <meta name="description" content="" />
 
 
     <!-- Update your html tag to include the itemscope and itemtype attributes. -->
     <html itemscope itemtype="http://schema.org/Product">
 
     <!-- Schema.org markup for Google+ -->
-    <meta itemprop="name" content="Flask源码剖析（十三）：扩展">
-    <meta itemprop="description" content="扩展"> 
+    <meta itemprop="name" content="Home">
+    <meta itemprop="description" content=""> 
     <meta content="http://localhost:4000/images/default.jpg" property="og:image"> 
 
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="http://localhost:4000/flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html">
-    <meta name="twitter:title" content="Flask源码剖析（十三）：扩展">
-    <meta name="twitter:description" content="扩展">
+    <meta name="twitter:site" content="http://localhost:4000/page4/">
+    <meta name="twitter:title" content="Home">
+    <meta name="twitter:description" content="">
     <meta name="twitter:creator" content="谢志刚"> 
     <meta name="twitter:image" content="http://localhost:4000/images/default.jpg"> 
 
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Flask源码剖析（十三）：扩展" />
+    <meta property="og:title" content="Home" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="http://localhost:4000/flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html" /> 
+    <meta property="og:url" content="http://localhost:4000/page4/" /> 
     <meta property="og:image" content="http://localhost:4000/images/default.jpg" /> 
-    <meta property="og:description" content="扩展" />
+    <meta property="og:description" content="" />
     <meta property="og:site_name" content="xiezg247" /> 
-    <meta content="http://localhost:4000/flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html" property="og:url">   
-    <meta content="flask" property="article:section">    
-    <meta content="flask" property="article:tag">  
+    <meta content="http://localhost:4000/page4/" property="og:url">   
 
     <!-- Bootstrap -->
     <link href="/images/favicon.ico" mce_href="/images/favicon.ico" rel="bookmark" type="image/x-icon" /> 
@@ -95,26 +93,50 @@
     </nav>
 
 
-<!-- post -->
 <section>
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-7 col-lg-offset-1">
-
                 
-                <h1 class="blog-heading">Flask源码剖析（十三）：扩展</h1>
-                <p class="time"> <i class="fa fa-clock-o" aria-hidden="true"></i> 07 May 2017</p>
+                    <div>
+                      
+                        <h1 class="blog-heading hover"><a class="blog-heading hover" href="http://localhost:4000/flask/2017/04/25/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E4%B8%80-%E6%80%BB%E8%A7%88.html">Flask源码剖析（一）：总览</a></h1>
+                        <p>有人说，人成熟的开始就是在不断认识自己的渺小和平凡，然后不断的妥协。</p>
+                        <span class="time"> <i class="fa fa-clock-o" aria-hidden="true"></i> 25 April 2017</span>
+                        <a href="http://localhost:4000/flask/2017/04/25/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E4%B8%80-%E6%80%BB%E8%A7%88.html"><span class="btn round-btn pull-right read">Read &rarr;</span></a>
+                        <hr>
+                    </div>
+                
 
-                <h2 id="一-最小的应用">一. 最小的应用</h2>
+                <div class="container">
+    <ul class="pagination">
 
-<h2 id="二-分析工具">二. 分析工具</h2>
+        
+          <li><a href="/page3/">«</a></li>
+        
 
-<h2 id="三-调用顺序">三. 调用顺序</h2>
+        
+          
+              <li><a href="/page3/">1</a></li>
+          
+        
+          
+              <li><a href="/page2/">2</a></li>
+          
+        
+          
+              <li><a href="/page3/">3</a></li>
+          
+        
+          
+              <li class="active"><a href="#">4 <span class="sr-only">(current)</span></a></li>
+          
+        
 
-<h2 id="四-抽象">四. 抽象</h2>
+        
 
-<h2 id="五-问题">五. 问题</h2>
-
+    </ul>
+</div>
 
             </div>
             <div class="col-lg-4">
@@ -183,63 +205,6 @@
         </div>
     </div>
 </section>
-
-
-<!-- sharing options -->
-<section>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-4 col-lg-offset-2">
-                <h2 class="share-group">
-                  <a href="http://twitter.com/share?text=Flask源码剖析（十三）：扩展&url=http://localhost:4000/flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html&via=xiezg247" target="_blank"><i class="fa fa-twitter share" aria-hidden="true"></i></a>
-                  <a href="http://www.facebook.com/sharer.php?u=http://localhost:4000/flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html&p[title]=<Flask源码剖析（十三）：扩展" target="_blank"><i class="fa fa-facebook share" aria-hidden="true"></i></a>
-                  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html&title=Flask源码剖析（十三）：扩展&summary=扩展&source=http://localhost:4000/flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html" target="_blank"><i class="fa fa-linkedin share" aria-hidden="true"></i></a>
-                  <a href="http://www.tumblr.com/share/link?url=http://localhost:4000/flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html&name=Flask源码剖析（十三）：扩展&description=扩展" target="_blank"><i class="fa fa-instagram share" aria-hidden="true"></i></a>
-                  <a href="http://pinterest.com/pin/create/button/?url=http://localhost:4000/flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html&description=Flask源码剖析（十三）：扩展" target="_blank"><i class="fa fa-pinterest-p share" aria-hidden="true"></i></a>
-                  <a href="https://plus.google.com/share?url=http://localhost:4000/flask/2017/05/07/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%89-%E6%89%A9%E5%B1%95.html" target="_blank"><i class="fa fa-google-plus share" aria-hidden="true"></i></a>
-                </h2>
-            </div>
-        </div>
-    </div>
-</section>
-<hr>
-
-
-<!-- next and prious button -->
-<div class="page">
-    <div class="col-lg-10 col-lg-offset-1">
-        
-        <a href="/flask/2017/05/06/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%BA%8C-%E9%85%8D%E7%BD%AE.html"><span class="btn round-btn pull-left">&larr; Flask源码剖析（十二）：配置</span></a>  
-        <a href="/flask/2017/05/08/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%9B%9B-%E6%A8%A1%E6%9D%BF.html"><span class="btn round-btn pull-right">Flask源码剖析（十四）：模板 &raquo;</span></a> 
-    </div>
-</div>
-<hr>
-
-<!-- Sharing buttons -->
-<section>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-7 col-lg-offset-1">
-
-                
-                  <div id="disqus_thread"></div>
-                  <script>
-                      (function() {
-                          var d = document,
-                              s = d.createElement('script');
-                          s.src = '//xiezg247-github-io.disqus.com/embed.js';
-                          s.setAttribute('data-timestamp', +new Date());
-                          (d.head || d.body).appendChild(s);
-                      })();
-                  </script>
-                  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                
-            </div>
-        </div>
-    </div>
-</section>
-
-<hr>
 
 <hr>
 <div class="footer-bottom">

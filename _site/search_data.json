@@ -1,6 +1,16 @@
 {
   
 
+    "flask-2017-05-10-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-8d-81-e5-85-ad-e8-be-85-e5-8a-a9-html": {
+      "title": "Flask源码剖析（十六）：辅助",
+      "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
+      "url": " /flask/2017/05/10/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AD-%E8%BE%85%E5%8A%A9.html",
+      "author": "",
+      "categories": "flask"
+    }
+    ,
+  
+
     "flask-2017-05-09-flask-e6-ba-90-e7-a0-81-e5-89-96-e6-9e-90-e5-8d-81-e4-ba-94-e8-a7-86-e5-9b-be-html": {
       "title": "Flask源码剖析（十五）：视图",
       "content"	 : "一. 最小的应用二. 分析工具三. 调用顺序四. 抽象五. 问题",
