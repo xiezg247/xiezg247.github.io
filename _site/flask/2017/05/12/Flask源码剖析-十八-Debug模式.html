@@ -5,36 +5,38 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Blog </title>
-    <meta name="description" content="" />
+    <title>Flask源码剖析（十八）：Debug模式 </title>
+    <meta name="description" content="Debug模式" />
 
 
     <!-- Update your html tag to include the itemscope and itemtype attributes. -->
     <html itemscope itemtype="http://schema.org/Product">
 
     <!-- Schema.org markup for Google+ -->
-    <meta itemprop="name" content="Blog">
-    <meta itemprop="description" content=""> 
+    <meta itemprop="name" content="Flask源码剖析（十八）：Debug模式">
+    <meta itemprop="description" content="Debug模式"> 
     <meta content="http://localhost:4000/images/default.jpg" property="og:image"> 
 
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="http://localhost:4000/blog/">
-    <meta name="twitter:title" content="Blog">
-    <meta name="twitter:description" content="">
+    <meta name="twitter:site" content="http://localhost:4000/flask/2017/05/12/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AB-Debug%E6%A8%A1%E5%BC%8F.html">
+    <meta name="twitter:title" content="Flask源码剖析（十八）：Debug模式">
+    <meta name="twitter:description" content="Debug模式">
     <meta name="twitter:creator" content="谢志刚"> 
     <meta name="twitter:image" content="http://localhost:4000/images/default.jpg"> 
 
 
     <!-- Open Graph data -->
-    <meta property="og:title" content="Blog" />
+    <meta property="og:title" content="Flask源码剖析（十八）：Debug模式" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="http://localhost:4000/blog/" /> 
+    <meta property="og:url" content="http://localhost:4000/flask/2017/05/12/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AB-Debug%E6%A8%A1%E5%BC%8F.html" /> 
     <meta property="og:image" content="http://localhost:4000/images/default.jpg" /> 
-    <meta property="og:description" content="" />
+    <meta property="og:description" content="Debug模式" />
     <meta property="og:site_name" content="xiezg247" /> 
-    <meta content="http://localhost:4000/blog/" property="og:url">   
+    <meta content="http://localhost:4000/flask/2017/05/12/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AB-Debug%E6%A8%A1%E5%BC%8F.html" property="og:url">   
+    <meta content="flask" property="article:section">    
+    <meta content="flask" property="article:tag">  
 
     <!-- Bootstrap -->
     <link href="/images/favicon.ico" mce_href="/images/favicon.ico" rel="bookmark" type="image/x-icon" /> 
@@ -102,10 +104,19 @@
             <div class="col-lg-7 col-lg-offset-1">
 
                 
-                <h1 class="blog-heading">Blog</h1>
-                <p class="time"> <i class="fa fa-clock-o" aria-hidden="true"></i> </p>
+                <h1 class="blog-heading">Flask源码剖析（十八）：Debug模式</h1>
+                <p class="time"> <i class="fa fa-clock-o" aria-hidden="true"></i> 12 May 2017</p>
 
-                
+                <h2 id="一-最小的应用">一. 最小的应用</h2>
+
+<h2 id="二-分析工具">二. 分析工具</h2>
+
+<h2 id="三-调用顺序">三. 调用顺序</h2>
+
+<h2 id="四-抽象">四. 抽象</h2>
+
+<h2 id="五-问题">五. 问题</h2>
+
 
             </div>
             <div class="col-lg-4">
@@ -182,12 +193,12 @@
         <div class="row">
             <div class="col-lg-4 col-lg-offset-2">
                 <h2 class="share-group">
-                  <a href="http://twitter.com/share?text=Blog&url=http://localhost:4000/blog/&via=xiezg247" target="_blank"><i class="fa fa-twitter share" aria-hidden="true"></i></a>
-                  <a href="http://www.facebook.com/sharer.php?u=http://localhost:4000/blog/&p[title]=<Blog" target="_blank"><i class="fa fa-facebook share" aria-hidden="true"></i></a>
-                  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/blog/&title=Blog&summary=&source=http://localhost:4000/blog/" target="_blank"><i class="fa fa-linkedin share" aria-hidden="true"></i></a>
-                  <a href="http://www.tumblr.com/share/link?url=http://localhost:4000/blog/&name=Blog&description=" target="_blank"><i class="fa fa-instagram share" aria-hidden="true"></i></a>
-                  <a href="http://pinterest.com/pin/create/button/?url=http://localhost:4000/blog/&description=Blog" target="_blank"><i class="fa fa-pinterest-p share" aria-hidden="true"></i></a>
-                  <a href="https://plus.google.com/share?url=http://localhost:4000/blog/" target="_blank"><i class="fa fa-google-plus share" aria-hidden="true"></i></a>
+                  <a href="http://twitter.com/share?text=Flask源码剖析（十八）：Debug模式&url=http://localhost:4000/flask/2017/05/12/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AB-Debug%E6%A8%A1%E5%BC%8F.html&via=xiezg247" target="_blank"><i class="fa fa-twitter share" aria-hidden="true"></i></a>
+                  <a href="http://www.facebook.com/sharer.php?u=http://localhost:4000/flask/2017/05/12/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AB-Debug%E6%A8%A1%E5%BC%8F.html&p[title]=<Flask源码剖析（十八）：Debug模式" target="_blank"><i class="fa fa-facebook share" aria-hidden="true"></i></a>
+                  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/flask/2017/05/12/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AB-Debug%E6%A8%A1%E5%BC%8F.html&title=Flask源码剖析（十八）：Debug模式&summary=Debug模式&source=http://localhost:4000/flask/2017/05/12/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AB-Debug%E6%A8%A1%E5%BC%8F.html" target="_blank"><i class="fa fa-linkedin share" aria-hidden="true"></i></a>
+                  <a href="http://www.tumblr.com/share/link?url=http://localhost:4000/flask/2017/05/12/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AB-Debug%E6%A8%A1%E5%BC%8F.html&name=Flask源码剖析（十八）：Debug模式&description=Debug模式" target="_blank"><i class="fa fa-instagram share" aria-hidden="true"></i></a>
+                  <a href="http://pinterest.com/pin/create/button/?url=http://localhost:4000/flask/2017/05/12/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AB-Debug%E6%A8%A1%E5%BC%8F.html&description=Flask源码剖析（十八）：Debug模式" target="_blank"><i class="fa fa-pinterest-p share" aria-hidden="true"></i></a>
+                  <a href="https://plus.google.com/share?url=http://localhost:4000/flask/2017/05/12/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E5%85%AB-Debug%E6%A8%A1%E5%BC%8F.html" target="_blank"><i class="fa fa-google-plus share" aria-hidden="true"></i></a>
                 </h2>
             </div>
         </div>
@@ -199,7 +210,9 @@
 <!-- next and prious button -->
 <div class="page">
     <div class="col-lg-10 col-lg-offset-1">
-         
+        
+        <a href="/flask/2017/05/11/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B8%83-%E6%97%A5%E5%BF%97.html"><span class="btn round-btn pull-left">&larr; Flask源码剖析（十七）：日志</span></a>  
+        <a href="/flask/2017/05/13/Flask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90-%E5%8D%81%E4%B9%9D-%E5%85%BC%E5%AE%B9.html"><span class="btn round-btn pull-right">Flask源码剖析（十九）：兼容 &raquo;</span></a> 
     </div>
 </div>
 <hr>
