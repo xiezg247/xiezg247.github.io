@@ -1,0 +1,47 @@
+# Site settings
+title: 山丘
+brief-intro: Python/GoLang Coder
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://xiezg247.xyz/" # the base hostname & protocol for your site
+
+permalink: /:year/:month/:day/:title/
+
+# other links
+twitter_username: xiezg247
+facebook_username:
+github_username:  xiezg247
+email: kw1073kk_xzg@163.com
+zhihu_username: kw1073
+linkedIn_username: clark-xie-8743b2ab
+dribbble_username:
+
+description_footer: 越过山丘 看见大海
+
+# comments
+disqus_shortname: http-xiezg247-xyz
+
+# statistic analysis 统计代码
+# 百度统计 id，将统计代码替换为自己的百度统计id，即
+# hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
+# xxxxx字符串
+baidu_tongji_id: 6763186953be725593c0ce96b7a4f036 # baidu 分析追踪id
+google_analytics_id: UA-124629615-1 # google 分析追踪id
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+plugins: [jekyll-paginate]
+paginate: 6
+port: 4001
